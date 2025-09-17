@@ -21,10 +21,10 @@ Outputs include:
 
 Install dependencies
 It’s best to use a virtual environment:
-python -m venv venv
-source venv/bin/activate    # on macOS/Linux
-venv\Scripts\activate       # on Windows
-pip install -r requirements.txt
+ - python -m venv venv
+ - source venv/bin/activate    # on macOS/Linux
+ - venv\Scripts\activate       # on Windows
+ - pip install -r requirements.txt
 
 requirement.txt:
 pandas numpy scikit-learn statsmodels patsy matplotlib
