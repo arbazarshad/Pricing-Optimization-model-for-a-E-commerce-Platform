@@ -29,5 +29,5 @@ It’s best to use a virtual environment:
 requirement.txt:
 pandas numpy scikit-learn statsmodels patsy matplotlib
 
--Place your sales CSV (e.g. Amazon Sale Report.csv) in a folder.
--Update the dataset path inside the config cell:
+- Place your sales CSV (e.g. Amazon Sale Report.csv) in a folder.
+- Update the dataset path inside the config cell:
